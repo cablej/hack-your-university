@@ -1,6 +1,6 @@
 # Can you hack your university?
 
-Bug bounty programs are becoming standard across companies and governments. Universities are slower to adopt, and they's many documented cases of schools punishing students for unauthorized access to systems.
+Vulnerability disclosure policies and bug bounty programs are becoming standard across companies and governments. Universities are slower to adopt, and they's many documented cases of schools punishing students for unauthorized access to systems.
 
 This is a list of universities that have bug bounty programs or vulnerability disclosure policies. Please reach out if your school has a program that I've missed, or if you would like help starting a bug bounty program at your school!
 
