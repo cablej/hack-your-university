@@ -28,4 +28,4 @@ Note: This list is not an invitation to hack any of the listed universities. Ens
 | Karlsruhe Institute of Technology    | VDP        | None      | https://www.kit.edu/.well-known/security.txt                 |                                          |
 | Embry–Riddle Aeronautical University | VDP        | None      | https://erau.edu/.well-known/security.txt                    |                                          |
 | Lyon College                         | VDP        | None      | https://www.lyon.edu/.well-known/security.txt                |                                          |
-
+| Monash University                    | VDP        | None      | https://www.monash.edu/report-security-vulnerabilities       |                                        |
